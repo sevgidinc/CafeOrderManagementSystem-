@@ -1,0 +1,10 @@
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.Properties.Resources.resources
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.csproj.GenerateResource.cache
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\bin\Debug\CafeOrderManagementSystem.exe.config
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\bin\Debug\CafeOrderManagementSystem.exe
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\bin\Debug\CafeOrderManagementSystem.pdb
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.exe
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.pdb
+C:\Users\sevgi\source\repos\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.Form1.resources
